@@ -799,3 +799,8 @@
 - Place: Delhi, India
 - Bio: - Undergraduate
 - Github: [neo700](https://github.com/neo700)
+
+### Name: [John-reid Adams](https://github.com/ItsThatDevJohnAgain)
+- Place: Cape Town, South Africa 
+- Bio: Student, Aspiring Dev.
+- Github: [ItsThatDevJohnAgain](https://github.com/ItsThatDevJohnAgain)
